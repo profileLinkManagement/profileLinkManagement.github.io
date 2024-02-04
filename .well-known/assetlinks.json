@@ -1,11 +1,3 @@
 [
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.psp.plms",
-      "sha256_cert_fingerprints":
-      []
-    }
-  }
+
 ]
